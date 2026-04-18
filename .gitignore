@@ -1,0 +1,24 @@
+*.fasta
+*.fa
+*.fa.fai
+*.gtf
+*.tsv
+*.genePred
+*.bam
+data/
+sqanti3_output/
+td2_output/
+processed/
+
+# Models
+*.pt
+*.pth
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+EOF
+
+SQANTI3/
