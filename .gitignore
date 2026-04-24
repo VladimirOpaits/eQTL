@@ -11,7 +11,6 @@ td2_output/
 processed/
 
 # Models
-*.pt
 *.pth
 checkpoints/
 
